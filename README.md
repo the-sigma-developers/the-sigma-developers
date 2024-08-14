@@ -4,7 +4,7 @@
   <a href="https://github.com/The-Sigma-Developers?tab=repositories">
     <img src="https://img.shields.io/github/followers/The-Sigma-Developers?label=Repositories&style=social" alt="GitHub Repositories" />
   </a>
-  <a href="https://github.com/The-Sigma-Developers?tab=repositories">
+  <a href="https://github.com/The-Sigma-Developers?tab=stars">
     <img src="https://img.shields.io/github/stars/The-Sigma-Developers?label=Stars&style=social" alt="GitHub Stars" />
   </a>
 </p>
