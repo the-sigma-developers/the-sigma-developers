@@ -36,7 +36,7 @@ Feel free to explore our repositories to see the code behind these assignments!
 
 We love working with a variety of technologies, including:
 
-- **Languages:** JavaScript, Python, Java, C++
+- **Languages:** HTML, CSS, JavaScript, Python, Java, C++
 - **Frameworks:** React, Node.js, Django
 - **Tools:** Git, VS Code, Docker
 
