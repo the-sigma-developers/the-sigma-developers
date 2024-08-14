@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/The-Sigma-Developers?tab=repositories">
-    <img src="https://img.shields.io/github/followers/The-Sigma-Developers?label=Repositories&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/The-Sigma-Developers?label=Repositories&style=social" alt="GitHub Repositories" />
   </a>
   <a href="https://github.com/The-Sigma-Developers?tab=repositories">
     <img src="https://img.shields.io/github/stars/The-Sigma-Developers?label=Stars&style=social" alt="GitHub Stars" />
@@ -10,6 +10,13 @@
 </p>
 
 ---
+### 🧑‍💻 Meet the Developers
+
+We are a team of 38 enthusiastic developers, and here's our squad:
+
+<p align="center">
+<b>Abdul | Areena | Ashutosh | Bhavdeep | Bhumika | Devyanshu | Digvijaya | Divyanshu | Durgesh | Eshban | Faiza | Gourav | Hemant | Indra | Karuna | Marceleno | Maya | Shahbaz | Monika | Nayan | Nikesh | Nikhil | Pankaj | Payal | Prashant | Preeti | Priyanshu | Raunak | Sachin | Sandeep | Shivani | Shubham | Sonia | Sneha | Hritik | Stanley | Tanmay | Vishal </b>
+</p>
 
 ### 🛠️ About Us
 
@@ -47,13 +54,6 @@ We're always learning and striving to improve our skills. Some areas we're curre
 - Machine Learning & AI
 - Web Development
 
-### 🧑‍💻 Meet the Developers
-
-We are a team of 38 enthusiastic developers, and here's our squad:
-
-<p align="center">
-<b>Abdul | Areena | Ashutosh | Bhavdeep | Bhumika | Devyanshu | Digvijaya | Divyanshu | Durgesh | Eshban | Faiza | Gourav | Hemant | Indra | Karuna | Marceleno | Maya | Shahbaz | Monika | Nayan | Nikesh | Nikhil | Pankaj | Payal | Prashant | Preeti | Priyanshu | Raunak | Sachin | Sandeep | Shivani | Shubham | Sonia | Sneha | Hritik | Stanley | Tanmay | Vishal </b>
-</p>
 
 ### 🤝 Let's Collaborate
 
