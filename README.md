@@ -1,8 +1,8 @@
 <h1 align="center">Hello, We are <i>The Sigma Developers</i> 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/The-Sigma-Developers?tab=followers">
-    <img src="https://img.shields.io/github/followers/The-Sigma-Developers?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/The-Sigma-Developers?tab=repositories">
+    <img src="https://img.shields.io/github/followers/The-Sigma-Developers?label=Repositories&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/The-Sigma-Developers?tab=repositories">
     <img src="https://img.shields.io/github/stars/The-Sigma-Developers?label=Stars&style=social" alt="GitHub Stars" />
