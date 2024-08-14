@@ -62,5 +62,5 @@ We love collaborating with other students and developers! If you'd like to work 
 ---
 
 <p align="center">
-  <a href="https://github.com/The-Sigma-Developers">Visit Our Repositories 🚀</a>
+  <a href="https://github.com/the-sigma-developers?tab=repositories">Visit Our Repositories 🚀</a>
 </p>
