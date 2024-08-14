@@ -1,4 +1,4 @@
-<h1 align="center">Hello, We are <i>The Sigma Developers</i> 👋</h1>
+<h1 align="center">Hello 👋 We are <i>The Sigma Developers</i></h1>
 
 <p align="center">
   <a href="https://github.com/The-Sigma-Developers?tab=repositories">
