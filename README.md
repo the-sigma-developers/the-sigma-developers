@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=30&pause=1000&color=00F7CA&center=true&width=435&lines=Hi+There!+%F0%9F%91%8B;We+are+The+Sigma+Developers)](https://git.io/typing-svg)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=35&center=true&vCenter=true&color=00F7CA&width=800&height=70&duration=5500&lines=Hi+There!+👋;+We+are+The+Sigma+Developers!;" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/The-Sigma-Developers?tab=repositories">
