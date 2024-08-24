@@ -17,9 +17,18 @@
 
 We are a team of 38 enthusiastic developers, and here's our squad:
 
-<p align="center">
-<b>Abdul | Areena | Ashutosh | Bhavdeep | Bhumika | Devyanshu | Digvijaya | Divyanshu | Durgesh | Eshban | Faiza | Gourav | Hemant | Indra | Karuna | Marceleno | Maya | Shahbaz | Monika | Nayan | Nikesh | Nikhil | Pankaj | Payal | Prashant | Preeti | Priyanshu | Raunak | Sachin | Sandeep | Shivani | Shubham | Sonia | Sneha | Hritik | Stanley | Tanmay | Vishal </b>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=2000&color=FF6F61&center=true&vCenter=true&width=1200&height=50&lines=Abdul+%7C+Areena+%7C+Ashutosh+%7C+Bhavdeep+%7C+Bhumika+%7C+Devyanshu+%7C+Digvijaya)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=2000&color=6B5B95&center=true&vCenter=true&width=1200&height=50&lines=Divyanshu+%7C+Durgesh+%7C+Eshban+%7C+Faiza+%7C+Gourav+%7C+Hemant+%7C+Indra)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=4000&pause=2000&color=88B04B&center=true&vCenter=true&width=1200&height=50&lines=Karuna+%7C+Marceleno+%7C+Maya+%7C+Shahbaz+%7C+Monika+%7C+Nayan+%7C+Nikesh)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=2000&color=F7CAC9&center=true&vCenter=true&width=1200&height=50&lines=Nikhil+%7C+Pankaj+%7C+Payal+%7C+Prashant+%7C+Preeti+%7C+Priyanshu+%7C+Raunak)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=2000&color=92A8D1&center=true&vCenter=true&width=1200&height=50&lines=Sachin+%7C+Sandeep+%7C+Shivani+%7C+Shubham+%7C+Sonia+%7C+Sneha+%7C+Hritik)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=2000&color=034F84&center=true&vCenter=true&width=1200&height=50&lines=Stanley+%7C+Tanmay+%7C+Vishal)](https://git.io/typing-svg)
+
 
 ### 🛠️ About Us
 
