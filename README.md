@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=35&center=true&vCenter=true&color=00F7CA&width=800&height=70&duration=5500&lines=Hi+There!+👋;+We+are+The+Sigma+Developers!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=35&center=true&vCenter=true&color=00F7CA&width=800&height=70&duration=5500&lines=Hi+There!+👋;+W're+The+Sigma+Developers!;" />
 </h1>
 
 <p align="center">
