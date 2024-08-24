@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 We are <i>The Sigma Developers</i></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=30&pause=1000&color=00F7CA&center=true&width=435&lines=Hi+There!+%F0%9F%91%8B;We+are+The+Sigma+Developers)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/The-Sigma-Developers?tab=repositories">
