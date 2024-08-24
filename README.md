@@ -30,14 +30,6 @@ We are a team of 38 enthusiastic developers, and here's our squad:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=5000&pause=3000&color=4DAB4C&center=true&vCenter=true&width=1200&height=50&lines=Stanley+%7C+Tanmay+%7C+Vishal)](https://git.io/typing-svg)
 
 
-### Our Contributions ✌️
-
-<div align="center">
-  <h2>My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/Anjana2k02/Anjana2k02/blob/output/github-contribution-grid-snake-dark.svg" />
-  <br/><br/><br/>
-</div>
 ### 🛠️ About Us
 
 Welcome to our GitHub profile! We are a group of passionate developers working together on various college assignments and projects. Our goal is to learn, share, and grow our skills as we collaborate on different coding challenges.
