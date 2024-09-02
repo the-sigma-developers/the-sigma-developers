@@ -17,17 +17,17 @@
 
 We are a team of 38 enthusiastic developers, and here's our squad:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=5000&pause=3000&color=FF9933&center=true&vCenter=true&width=1200&height=50&lines=Abdul+%7C+Areena+%7C+Ashutosh+%7C+Bhavdeep+%7C+Bhumika+%7C+Devyanshu+%7C+Digvijaya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=5000&pause=3000&color=FF9933&center=true&vCenter=true&width=1200&height=50&lines=Abdul+%7C+Areena+%7C+Ashutosh+%7C+Bhavdeep+%7C+Bhumika+%7C+Devyanshu)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=5000&pause=3000&color=FF9933&center=true&vCenter=true&width=1200&height=50&lines=Divyanshu+%7C+Durgesh+%7C+Eshban+%7C+Faiza+%7C+Gourav+%7C+Hemant+%7C+Indra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=5000&pause=3000&color=FF9933&center=true&vCenter=true&width=1200&height=50&lines=Digvijaya+%7C+Divyanshu+%7C+Durgesh+%7C+Eshban+%7C+Faiza+%7C+Gourav+%7C+Hemant)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=5000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=1200&height=50&lines=Karuna+%7C+Marceleno+%7C+Maya+%7C+Shahbaz+%7C+Monika+%7C+Nayan+%7C+Nikesh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=5000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=1200&height=50&lines=Indra+%7C+Karuna+%7C+Marceleno+%7C+Maya+%7C+Shahbaz+%7C+Monika+%7C+Nayan)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=5000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=1200&height=50&lines=Nikhil+%7C+Pankaj+%7C+Payal+%7C+Prashant+%7C+Preeti+%7C+Priyanshu+%7C+Raunak)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=5000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=1200&height=50&lines=Nikesh+%7C+Nikhil+%7C+Pankaj+%7C+Payal+%7C+Prashant+%7C+Preeti+%7C+Priyanshu)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=5000&pause=3000&color=4DAB4C&center=true&vCenter=true&width=1200&height=50&lines=Sachin+%7C+Sandeep+%7C+Shivani+%7C+Shubham+%7C+Sonia+%7C+Sneha+%7C+Hritik)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=5000&pause=3000&color=4DAB4C&center=true&vCenter=true&width=1200&height=50&lines=Raunak+%7C+Sachin+%7C+Sandeep+%7C+Shivani+%7C+Shubham+%7C+Sonia)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=5000&pause=3000&color=4DAB4C&center=true&vCenter=true&width=1200&height=50&lines=Stanley+%7C+Tanmay+%7C+Vishal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=5000&pause=3000&color=4DAB4C&center=true&vCenter=true&width=1200&height=50&lines=Sneha+%7C+Hritik+%7C+Stanley+%7C+Tanmay+%7C+Vishal)](https://git.io/typing-svg)
 
 
 ### 🛠️ About Us
